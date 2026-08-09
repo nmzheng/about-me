@@ -1,4 +1,4 @@
-hi and welcome to my github!
+Hello and welcome to my github!
 
 ABOUT ME: a little more about me, what I’m working on, and some of the projects I’ve enjoyed along the way!
 
